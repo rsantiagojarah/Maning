@@ -1,0 +1,4 @@
+Caudal,Diametro,Rugosidad,Pendiente,Tirante Normal (m),Área Hidráulica (m²),Espejo de Agua (m),Número de Froude,Perímetro Mojado (m),Radio Hidráulico (m),Velocidad (m/s)
+0.05,0.3,0.013,0.001,0.105,0.022,0.2862,3.0052,0.3798,0.058,2.2678
+0.1,0.5,0.013,0.002,0.2769,0.1116,0.4971,0.7847,0.8393,0.133,0.8962
+0.2,0.8,0.015,0.005,0.2708,0.1498,0.7571,1.098,0.9935,0.1508,1.3353
